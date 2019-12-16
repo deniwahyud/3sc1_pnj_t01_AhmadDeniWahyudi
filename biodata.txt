@@ -1,3 +1,4 @@
 NO.REG	: 1820010013
 Nama	: AHMAD DENI WAHYUDI
 Jurusan	: TI-PNJ
+Angkatan: 2018
